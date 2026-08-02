@@ -62,6 +62,9 @@ dependencies = [
     "uvicorn",
 ]
 
+[tool.vercel]
+entrypoint = "mineru.cli.fast_api:app"
+
 [project.optional-dependencies]
 test = [
     "mineru[core]",
