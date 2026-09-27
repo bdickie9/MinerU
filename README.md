@@ -1,3 +1,5 @@
+> **Fork notice:** this repository is a fork of https://github.com/opendatalab/MinerU by the MinerU Team (opendatalab), licensed under Apache-2.0 + MinerU additional terms. The original code remains the property of its authors. See [FORK_NOTICE.md](FORK_NOTICE.md).
+
 <div align="center" xmlns="http://www.w3.org/1999/html">
 <!-- logo -->
 <p align="center">
