@@ -188,3 +188,6 @@ line-length = 128
 [tool.ruff.lint]
 select = ["C", "E", "F", "W", "ANN"]
 ignore = ["C901", "ANN204", "ANN401"]
+
+[tool.vercel]
+entrypoint = "mineru.cli.fast_api:app"
